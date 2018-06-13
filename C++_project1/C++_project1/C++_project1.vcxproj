@@ -116,9 +116,12 @@
     <ClCompile Include="Account.cpp" />
     <ClCompile Include="Accumlator.cpp" />
     <ClCompile Include="Cast.cpp" />
+    <ClCompile Include="freestore.cpp" />
     <ClCompile Include="FunctionsCollector.cpp" />
     <ClCompile Include="Person.cpp" />
+    <ClCompile Include="PointerAndReference.cpp" />
     <ClCompile Include="PointersAndInheritance.cpp" />
+    <ClCompile Include="resourceclass.cpp" />
     <ClCompile Include="SimpleClass.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Template_TemplateFunction.cpp" />
@@ -131,6 +134,7 @@
     <ClInclude Include="Account.h" />
     <ClInclude Include="Accum_TemplateClass.h" />
     <ClInclude Include="FunctionsCollector.h" />
+    <ClInclude Include="resourceclass.h" />
     <ClInclude Include="Status.h" />
     <ClInclude Include="Person.h" />
     <ClInclude Include="Transaction.h" />

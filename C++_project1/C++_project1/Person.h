@@ -17,6 +17,7 @@ public:
 	friend bool operator < (int i, Person& p);
 	std::string GetName() const { return firstname + " " + lastname; }
 	void SetFirstName(std::string first) { firstname = first; }
+	void SetNumber(int number) { arbitrary = number; }
 };
 
 bool operator < (int i, Person& p);
