@@ -59,6 +59,15 @@
     <ClCompile Include="resourceclass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="smartPointer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IndirectionAndInheritance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="casting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Account.h">
