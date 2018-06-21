@@ -120,6 +120,7 @@
     <ClCompile Include="freestore.cpp" />
     <ClCompile Include="FunctionsCollector.cpp" />
     <ClCompile Include="IndirectionAndInheritance.cpp" />
+    <ClCompile Include="map.cpp" />
     <ClCompile Include="Person.cpp" />
     <ClCompile Include="PointerAndReference.cpp" />
     <ClCompile Include="PointersAndInheritance.cpp" />
@@ -127,6 +128,7 @@
     <ClCompile Include="SimpleClass.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="smartPointer.cpp" />
+    <ClCompile Include="sortingAndSearching.cpp" />
     <ClCompile Include="Template_TemplateFunction.cpp" />
     <ClCompile Include="Transaction.cpp" />
     <ClCompile Include="Tweeter.cpp" />

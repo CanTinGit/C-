@@ -1,21 +1,25 @@
 #include "Person.h"
 using namespace std;
 
+Person::Person()
+{
+	//cout << "Constructing Person! " << firstname << " " << lastname << " " << arbitrary << endl;
+}
+
 
 Person::Person(std::string first, std::string last, int arb)
 {
 	firstname = first;
 	lastname = last;
 	arbitrary = arb;
-	pResource = nullptr;
-	cout << "Constructing Person! " << firstname << " " << lastname << " " << arbitrary << endl;
+	//cout << "Constructing Person! " << firstname << " " << lastname << " " << arbitrary << endl;
 }
 
 
 Person::~Person()
 {
 	//delete pResource;
-	cout << "Destructing Person! " << firstname << " " << lastname << " " << arbitrary << endl;
+	//cout << "Destructing Person! " << firstname << " " << lastname << " " << arbitrary << endl;
 }
 
 bool Person::operator<  (Person& p)

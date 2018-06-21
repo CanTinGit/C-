@@ -12,6 +12,7 @@ private:
 	int arbitrary;
 	std::shared_ptr<Resource> pResource;
 public:
+	Person();
 	Person(std::string first, std::string last, int arb);
 	virtual ~Person();
 	bool operator < (Person& p); //using reference is quicker
