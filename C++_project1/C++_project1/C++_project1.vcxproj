@@ -120,6 +120,7 @@
     <ClCompile Include="freestore.cpp" />
     <ClCompile Include="FunctionsCollector.cpp" />
     <ClCompile Include="IndirectionAndInheritance.cpp" />
+    <ClCompile Include="Lambdas.cpp" />
     <ClCompile Include="map.cpp" />
     <ClCompile Include="Person.cpp" />
     <ClCompile Include="PointerAndReference.cpp" />
