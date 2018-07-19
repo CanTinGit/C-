@@ -115,6 +115,7 @@
   <ItemGroup>
     <ClCompile Include="Account.cpp" />
     <ClCompile Include="Accumlator.cpp" />
+    <ClCompile Include="BinaryTreeClass.cpp" />
     <ClCompile Include="Cast.cpp" />
     <ClCompile Include="casting.cpp" />
     <ClCompile Include="freestore.cpp" />
@@ -139,6 +140,7 @@
   <ItemGroup>
     <ClInclude Include="Account.h" />
     <ClInclude Include="Accum_TemplateClass.h" />
+    <ClInclude Include="BinaryTreeClass.h" />
     <ClInclude Include="FunctionsCollector.h" />
     <ClInclude Include="resourceclass.h" />
     <ClInclude Include="Status.h" />
